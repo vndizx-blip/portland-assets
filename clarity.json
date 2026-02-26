@@ -1,0 +1,11 @@
+{
+  "name": "Clarity",
+  "faces": [
+    {
+      "name": "Regular",
+      "weight": 400,
+      "style": "normal",
+      "assetId": "clarity.ttf"
+    }
+  ]
+}
